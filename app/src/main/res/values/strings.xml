@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise_2</string>
+    <string name="over">pay attention to your health, ...you may need to balance your weight by losing</string>
+    <string name="below">pay attention to your health, ...you may need to balance your weight by gaining</string>
+    <string name="firstName_Hint">Enter your first name</string>
+    <string name="lastName_Hint">Enter your last name</string>
+    <string name="height_Hint">Height (in cm)</string>
+    <string name="weight_Hint">Weight (in kg)</string>
+</resources>
